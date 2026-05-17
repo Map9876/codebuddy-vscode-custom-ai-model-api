@@ -41,7 +41,7 @@ vscode 插件版 codebuddy 使用自己的ai api 进行对话 的方法，与cod
 
 
 
-还有一个环境变量是 ACC_PRODUCT_CONFIG_V3 和 ACC_PRODUCT_CONFIG_V2 ，可在https://cnb.cool 文档看到，v3可设置models，v2设置models会无作用
+还有一个环境变量是 ACC_PRODUCT_CONFIG_V3 和 ACC_PRODUCT_CONFIG_V2 ，可在https://cnb.cool 文档看到，V3可设置models。注意V2设置models会无作用，被强制替换掉
 
 ```
 
